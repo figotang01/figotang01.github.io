@@ -1,7 +1,6 @@
 github_users:
   - torvalds
   - alshedivat
-  - figotang01
 
 repo_description_lines_max: 2
 
@@ -13,4 +12,3 @@ github_repos:
   - FortAwesome/Font-Awesome
   - mathjax/MathJax
   - jpswalsh/academicons
-  - figotang01/figotang01.github.io
