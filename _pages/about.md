@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  yftang@seas.upenn.edu  # <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Face_Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>Master of Science in</p>
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
