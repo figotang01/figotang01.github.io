@@ -2,13 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. yftang@seas.upenn.edu
-
+subtitle: Philadelphia | yftang@seas.upenn.edu | (267)7348833
+# <a href='#'>Affiliations</a>. 
 profile:
   align: right
   image: Face_Photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+   Master of Science in
+   Computer and Information Science
+   and Mechanical Engineering
 
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
