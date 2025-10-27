@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Philadelphia | yftang@seas.upenn.edu | (267)7348833 # <a href='#'>Affiliations</a>. 
+subtitle: <a href='#'>Affiliations</a>. yftang@seas.upenn.edu
 
 profile:
   align: right
-  image: Face_Photo.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-   <p>Master of Science in</p>
-   <p>Computer and Information Science</p>
-   <p>and Mechanical Engineering</p>
+    <p>Master of Science in</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
-selected_papers: False # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-# announcements:
-#   enabled: false # includes a list of news items
-#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-#   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
